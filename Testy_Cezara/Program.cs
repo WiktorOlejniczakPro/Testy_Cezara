@@ -45,5 +45,24 @@ namespace SzyfrCezara
 
             Console.ReadKey();
         }
-    } 
+    } s
 }
+
+/*
+Console.WriteLine() — wypisuje tekst i przechodzi do nowej linii
+Console.Write() — wypisuje bez przejścia do nowej linii
+Console.ReadLine() — pobiera tekst od użytkownika
+
+int       // liczby całkowites
+double    // liczby zmiennoprzecinkowe
+decimal   // dokładniejsze wartości, np. pieniądze
+char      // pojedynczy znak
+string    // tekst
+bool      // true / false
+
+int[] liczby = new int[5]; tablica
+
+Random random = new Random();
+int liczba = random.Next(1, 11);
+random.Next(1, 11)
+*/
